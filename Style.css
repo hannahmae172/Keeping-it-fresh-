@@ -1,0 +1,30 @@
+html{
+    background-color: rebeccapurple;
+}
+.tag1{
+    width: 400px;
+    color: white;
+    text-align: center;
+}
+.tag2{
+    width: 800px;
+    color: orange;
+    text-align: right;
+}
+#redbox1{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+#bluebox2{
+    background-color: blue;
+    border: 2px red;
+    width: 300px;
+    height: 400px;
+}
+#greenbox3{
+    background-color: green;
+    width: 250px;
+    height: 600px;
+    border-radius: 6px;
+}
